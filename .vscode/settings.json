@@ -1,0 +1,18 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "src/lib/jasperreports-5.6.0.jar",
+            "src/lib/jcalendar-1.4.jar",
+            "src/lib/jgoodies-common-1.2.0.jar",
+            "src/lib/jgoodies-looks-2.4.1.jar",
+            "src/lib/junit-4.6.jar",
+            "src/lib/mysql-connector-java-5.1.47.jar",
+            "src/lib/swing-time-picker.jar",
+            "src/lib/TimingFramework-0.55.jar"
+        ],
+        "exclude": [
+            "e:\\File PC\\Proyek\\Library java\\TimingFramework-0.55.jar"
+        ]
+    }
+}
